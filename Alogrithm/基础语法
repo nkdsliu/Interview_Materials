@@ -4,5 +4,7 @@
 [python教程]（https://docs.python.org/zh-cn/3/tutorial/index.html）
 [python语法参考手册](https://docs.python.org/zh-cn/3/reference/index.html#reference-index)
 
-皮尔逊系数，https://blog.csdn.net/huangfei711/article/details/78456165
-协方差矩阵，https://zhuanlan.zhihu.com/p/37609917
+皮尔逊相关系数，https://blog.csdn.net/huangfei711/article/details/78456165
+斯皮尔曼相关系数，https://zh.wikipedia.org/wiki/%E6%96%AF%E7%9A%AE%E5%B0%94%E6%9B%BC%E7%AD%89%E7%BA%A7%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0
+皮尔逊系数（协方差除以标准差）度量线性关系，斯皮尔曼系数（根据等级排序计算——序列中相对位置，而不是数值）度量单调关系。
+方差、协方差、协方差矩阵，https://zhuanlan.zhihu.com/p/37609917

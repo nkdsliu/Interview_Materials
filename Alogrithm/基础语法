@@ -9,12 +9,17 @@ static声明时可同时定义，extern声明和定义要分开。
 
 引用和指针区别，https://www.cnblogs.com/dolphin0520/archive/2011/04/03/2004869.html
 引用不能为空且只能初始化一次，更安全；指针更灵活。
+*&做参数可以改变指针本身，*做参数只能改变指针指向的内容（指针本身是传值参数）
 
 C++常用头文件，https://blog.csdn.net/u012707739/article/details/76359238
 
 new和delete，https://www.cnblogs.com/hazir/p/new_and_delete.html
 多维数组，https://www.runoob.com/cplusplus/cpp-dynamic-memory.html
 声明变长数组，https://blog.csdn.net/fanyun_01/article/details/77430682
+栈和堆的区别，https://www.cnblogs.com/lxmhhy/p/3559212.html
+
+STL库，http://c.biancheng.net/stl/stl_basic/
+STL标准手册，http://www.cplusplus.com/reference/stl/
 
 
 # python
@@ -36,3 +41,10 @@ dataframe与或非&，|，~
 信息熵、交叉熵、相对熵，https://www.zhihu.com/question/41252833
 KL散度（相对熵），https://www.jianshu.com/p/43318a3dc715
 交叉熵损失函数，https://zhuanlan.zhihu.com/p/35709485
+
+
+需要学习内容：
+1、自己工作中的项目
+2、刷题
+3、c++和python基础知识
+4、机器学习基础知识

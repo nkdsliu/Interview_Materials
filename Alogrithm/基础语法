@@ -21,6 +21,14 @@ new和delete，https://www.cnblogs.com/hazir/p/new_and_delete.html
 STL库，http://c.biancheng.net/stl/stl_basic/
 STL标准手册，http://www.cplusplus.com/reference/stl/
 
+C++ string类，http://c.biancheng.net/view/400.html，其中substr和erase的第二个参数为要截取或删除的子串的长度，不是索引
+C++ sort函数，https://www.cnblogs.com/alvinzh/p/6784862.html
+
+C++ cin输入，https://www.runoob.com/note/50168
+连续多行输入（while(cin)），https://cloud.tencent.com/developer/article/1036486，https://www.cnblogs.com/libbin/p/CinMultiLines.html
+成对输入使用tuple，pair或定义struct
+tuple用法，https://www.cnblogs.com/pandamohist/p/13630613.html
+
 
 # python
 [python教程]（https://docs.python.org/zh-cn/3/tutorial/index.html）
